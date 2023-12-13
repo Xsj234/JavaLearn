@@ -10,7 +10,7 @@ public class MethodDemo {
 
     }
 
-    public static boolean compare(int a,int b){
+    public static boolean compare(int a, int b){
         return a==b;
     }
     public static boolean compare(byte a,byte b){
