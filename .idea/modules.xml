@@ -7,19 +7,24 @@
       <module fileurl="file://$PROJECT_DIR$/myAbstract/myAbstract.iml" filepath="$PROJECT_DIR$/myAbstract/myAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArgs/myArgs.iml" filepath="$PROJECT_DIR$/myArgs/myArgs.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/myArrayList/myArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArrays/myArrays.iml" filepath="$PROJECT_DIR$/myArrays/myArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/myClass/myClass.iml" filepath="$PROJECT_DIR$/myClass/myClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
       <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/myFinal/myFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInnnerClass/myInnnerClass.iml" filepath="$PROJECT_DIR$/myInnnerClass/myInnnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/myInteger/myInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMath/myMath.iml" filepath="$PROJECT_DIR$/myMath/myMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMethod/myMethod.iml" filepath="$PROJECT_DIR$/myMethod/myMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/myModifier/myModifier.iml" filepath="$PROJECT_DIR$/myModifier/myModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myObject/myObject.iml" filepath="$PROJECT_DIR$/myObject/myObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" filepath="$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySystem/mySystem.iml" filepath="$PROJECT_DIR$/mySystem/mySystem.iml" />
     </modules>
   </component>
 </project>
